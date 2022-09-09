@@ -1,4 +1,4 @@
-# StMcmcCme
+# ST-MCMC
 
 Explore the application of ST-MCMC for Bayesian inference and reduced order/surrogate models to CME models. This repository contains the Python modules and scripts to reproduce the results in the paper `Catanach et al. Bayesian Inference of Stochastic Reaction Networks using Multifidelity Sequential Tempered Markov Chain Monte Carlo (https://arxiv.org/abs/2001.01373)`.
 
